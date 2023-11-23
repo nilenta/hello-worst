@@ -12,6 +12,8 @@ The worst implementation ever, inspired by https://github.com/Zerthox/hello-wors
 
 
 # optional stuff you can do
+Running it through node index.js with args after it is very limited.
+
 `node index.js texttogenerate` : will generate the text you provided in cmd
 
 `node index.js texttogenerate output2.txt` : will generate the text you provided in first arg and output to text file which is in second arg
